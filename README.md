@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Programming Technician student at UTN - Facultad Regional Resistencia (FRRe)<br>💻 Passionate about software development, problem-solving, and lifelong learning<br>🚀 Currently developing skills in technologies such as Java, Spring Framework, JavaScript, TypeScript, React, MySQL, SQL Server.<br><br>🔍 Interested in web development, algorithms, object-oriented programming, and building clean, efficient code<br>🛠️ Sharing academic projects, personal experiments, and what I learn along the way<br><br>📫 Let’s connect: www.linkedin.com/in/bolaniojuanpablo<br><br>
+🎓 Programming Technician )<br>💻 Passionate about software development, problem-solving, and lifelong learning<br>🚀 Currently developing skills in technologies such as Java, Spring Framework, JavaScript, TypeScript, React, MySQL, SQL Server.<br><br>🔍 Interested in web development, algorithms, object-oriented programming, and building clean, efficient code<br>🛠️ Sharing academic projects, personal experiments, and what I learn along the way<br><br>📫 Let’s connect: www.linkedin.com/in/bolaniojuanpablo<br><br>
 
 
 ## 🌐 Socials:
