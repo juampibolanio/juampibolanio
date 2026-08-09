@@ -5,7 +5,7 @@
 🇦🇷 Backend Developer from Argentina.  
 
 ---
-
+ 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bolaniojuanpablo)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:juampi360786@gmail.com)
